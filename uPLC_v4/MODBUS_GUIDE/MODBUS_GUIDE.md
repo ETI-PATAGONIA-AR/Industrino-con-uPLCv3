@@ -1,8 +1,4 @@
-#==================================================================
-# uPLC_v3/MODBUS_GUIDE.md - ETI Patagonia - prof.martintorres@educ.ar
-#==================================================================
-
-# Guía de uso de Modbus RS485 en uPLC v3
+# Guía de uso de Modbus RS485 en uPLC v4
 
 ## Descripción General
 
