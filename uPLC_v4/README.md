@@ -1,12 +1,6 @@
-# ==============================================================
-# README.md - ETI Patagonia - prof.martintorres@educ.ar
-# ==============================================================
+# uPLC v4 - Conversor Ladder a Arduino
 
-# uPLC v3 - Conversor Ladder a Arduino
-
-# uPLC v3 - Conversor Ladder a Arduino
-
-## 🆕 Novedades v3.1 - Modbus RS485
+## 🆕 Novedades v4.1 - Modbus RS485
 
 ### Nuevas Características
 1. ✅ **Comunicación Modbus RS485**: Protocolo industrial estándar
