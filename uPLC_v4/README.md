@@ -12,6 +12,14 @@
    - **MB_WRITE**: Escribir registro a dispositivo esclavo
 5. ✅ **Compatible con PLCs industriales**: Protocolo Modbus RTU estándar
 
+## Ejemplo BASICO de un Controlador de VENTILACION con las version uPLCv4:
+
+<img width="1366" height="720" alt="Ctl_VENTILACIO_LADDER" src="https://github.com/user-attachments/assets/27ba6333-7e4a-4d81-baa9-891243cf9284" />
+
+<img width="1366" height="720" alt="Ctl_VENTILACION_SKETCH" src="https://github.com/user-attachments/assets/00ec18d3-3525-4b8a-9d84-1773de58de85" />
+
+<img width="1366" height="720" alt="Ctl_VENTILACION_SIMU" src="https://github.com/user-attachments/assets/580d02bf-c426-4891-b340-2c4c16039f11" />
+
 ### Correcciones Anteriores (v3.0)
 1. ✅ **PWM corregido**: Ahora genera correctamente `analogWrite(pin, valor)` en lugar de solo asignar la variable
 2. ✅ **SET_VAR con ADC**: Cuando se usa ADC seguido de SET_VAR sin valor explícito, automáticamente toma la referencia del ADC
